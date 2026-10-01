@@ -1,0 +1,27 @@
+.box {
+  width: 400px;
+  padding: 40px;
+  border: 2px solid black;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.bleh{
+    text-align: center;
+}
+
+.didy{
+    text-align: left;
+    color: red;
+    font-weight: bold;
+}
+
+.box button{
+    background-color: blue;
+    color: white;
+}
